@@ -1,4 +1,5 @@
 wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v5
+
 chmod +x miner_v5
 
 ./miner_v5 --wallet 0xxxXXxxxxxxXx --threads 4
