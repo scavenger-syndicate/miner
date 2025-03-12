@@ -2,7 +2,7 @@ wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v9
 
 chmod +x miner_v9
 
-./miner_v7 --wallet "0x0xxxxxxxxxx" --threads "4" --machine_id "namexxx" --machine_id "CPUXXX"
+./miner_v9 --wallet "0xxxXXXX" --machine_id "CPUXX" --threads "32"
 
 dont need ""
 
