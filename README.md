@@ -1,8 +1,8 @@
-wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v6
+wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v7
 
-chmod +x miner_v6
+chmod +x miner_v7
 
-./miner_v6.py --wallet "0x0xxxxxxxxxx" --threads "4" --machine_id "namexxx"
+./miner_v6.py --wallet "0x0xxxxxxxxxx" --threads "4" --machine_id "namexxx" --machine_id "CPUXXX"
 
 dont need ""
 
