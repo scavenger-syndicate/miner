@@ -1,9 +1,10 @@
-wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v5
+wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v6
 
-chmod +x miner_v5
+chmod +x miner_v6
 
-./miner_v5 --wallet 0xxxXXxxxxxxXx --threads 4
+./miner_v6.py --wallet "0x0xxxxxxxxxx" --threads "4" --machine_id "namexxx"
 
+dont need ""
 
 Enjoy!!  It can only be used for the Scavenger pool !! >>>> http://scavenger-pool.xyz:8000/dashboard 
 
