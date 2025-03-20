@@ -1,3 +1,5 @@
+need ubuntu 24.04
+
 wget https://raw.githubusercontent.com/scavenger-syndicate/miner/main/miner_v9
 
 chmod +x miner_v9
