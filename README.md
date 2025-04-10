@@ -20,3 +20,11 @@ Enjoy!!  It can only be used for the Scavenger pool !! >>>> http://scavenger-poo
 2025/03/11 20:25:17 🔧 Threads: 4
 
 2025/03/11 20:25:17 🚀 New Block Found:
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+you can now dll 22.04 ubuntu miner
