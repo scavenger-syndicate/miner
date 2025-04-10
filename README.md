@@ -27,4 +27,7 @@ Enjoy!!  It can only be used for the Scavenger pool !! >>>> http://scavenger-poo
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-you can now dll 22.04 ubuntu miner
+  !!!  you can now dll 22.04 ubuntu miner  !!!
+
+
+
